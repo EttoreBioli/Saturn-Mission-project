@@ -21,9 +21,10 @@ The mission is divided into sequentially computed phases:
   Event-Driven Simulation: Implementation of custom ODE event functions to automatically detect SOI entry/exit boundaries.
   $\Delta V$ Budgeting: Calculation of the total $\Delta V$ cost (approx. $14.74$ km/s) across all maneuvers (Plane change, Escapes, Corrections, and Saturn Capture).
 
-## Author
-Bioli Ettore, 
-Giugliano Rolando,
-Modesti Alessandro 
+
+##  Authors 
+* **Alessandro Modesti**
+* * **Ettore Bioli** 
+* **Rolando Giugliano**
 
 Master's Students in Robotics and Automation Engineering | University of Pisa
