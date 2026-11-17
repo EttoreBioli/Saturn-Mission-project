@@ -22,8 +22,8 @@ The mission is divided into sequentially computed phases:
   $\Delta V$ Budgeting: Calculation of the total $\Delta V$ cost (approx. $14.74$ km/s) across all maneuvers (Plane change, Escapes, Corrections, and Saturn Capture).
 
 ## Author
-Bioli Ettore 
-Giugliano Rolando 
+Bioli Ettore, 
+Giugliano Rolando,
 Modesti Alessandro 
 
 Master's Students in Robotics and Automation Engineering | University of Pisa
