@@ -24,7 +24,7 @@ The mission is divided into sequentially computed phases:
 
 ##  Authors 
 * **Alessandro Modesti**
-* * **Ettore Bioli** 
+* **Ettore Bioli** 
 * **Rolando Giugliano**
 
 Master's Students in Robotics and Automation Engineering | University of Pisa
