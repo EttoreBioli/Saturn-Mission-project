@@ -1,4 +1,4 @@
-Kronos Mission: Interplanetary Trajectory Design
+# Kronos Mission: Interplanetary Trajectory Design
 
 This repository contains the MATLAB codebase for Project Kronos, an interplanetary space mission design inspired by the ESA Rosetta mission.
 The objective of the mission is to design a trajectory from Earth to Saturn—utilizing planetary Gravity Assists (Flybys)—to achieve Saturn Orbit Insertion (SOI) and observe
